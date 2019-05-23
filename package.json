@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-dwwm",
+  "version": "1.0.0",
+  "description": "ESlint configuration file for DWWM team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint", "eslintconfig"
+  ],
+  "author": "DWWM Team",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
