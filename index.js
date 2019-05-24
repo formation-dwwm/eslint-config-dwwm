@@ -13,6 +13,11 @@ module.exports = {
         "eslint:recommended"
     ],
     "rules": {
+        "no-console": "off",
+        "no-case-declarations": "off",
+        "no-fallthrough": "off",
+        "no-debugger": "off",
+        "no-prototype-builtins": "warn",
         "no-var": "error",
         "no-shadow": "error",
         "prefer-const": "error",
